@@ -19,8 +19,8 @@ public class App {
 
         // Käytetään double komentoa jossa määritetään luku1 arvo ja luku2 arvo, sen jälkeen double tulo = luku1 * luku2
 
-        double luku1 = 5;
-        double luku2 = 2;
+        double luku1 = 5.0;
+        double luku2 = 2.0;
         double tulo = luku1 * luku2;
 
 
