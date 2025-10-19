@@ -8,7 +8,7 @@ public class App {
         System.out.println("Ohjelman tekijä: Joonas");
 
 
-        // Luku1 muuttujan arvo on 5.0
+        // Tulostetaan system.out.println komennolla luku1 muuttujan arvo
 
         System.out.println("luku1-muuttujan arvo on 5.0");
 
