@@ -3,7 +3,7 @@ public class App {
         System.out.println("Hei! Olen tulostinohjelma");
 
         // Ohjelmantekijä Joonas 
-        // Tulostetaan Hei! Olen tulostinohjelma
+        // Tulostetaan system.out.println komnennolla Hei! Olen tulostinohjelma
 
         System.out.println("Ohjelman tekijä: Joonas");
 
@@ -17,7 +17,7 @@ public class App {
         System.out.println("luku2-muuttujan arvo on 2.0");
 
 
-        // Kerrotaan numerot 5 ja 2 ja katsotaan mitä saadaan tulokseksi
+        // Käytetään double komentoa jossa määritetään luku1 arvo ja luku2 arvo, sen jälkeen double tulo = luku1 * luku2
 
         double luku1 = 5;
         double luku2 = 2;
