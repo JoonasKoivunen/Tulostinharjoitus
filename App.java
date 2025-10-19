@@ -16,7 +16,7 @@ public class App {
         System.out.println("luku2-muuttujan arvo on 2.0");
 
 
-        // 5 * 2 = 10
+        // Kerrotaan numerot 5 ja 2 ja katsotaan mitä saadaan tulokseksi
 
         double luku1 = 5;
         double luku2 = 2;
